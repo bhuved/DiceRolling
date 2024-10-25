@@ -1,0 +1,14 @@
+C:\Users\vedaa\source\repos\DiceRolling\bin\Debug\net8.0\DiceRolling.exe
+C:\Users\vedaa\source\repos\DiceRolling\bin\Debug\net8.0\DiceRolling.deps.json
+C:\Users\vedaa\source\repos\DiceRolling\bin\Debug\net8.0\DiceRolling.runtimeconfig.json
+C:\Users\vedaa\source\repos\DiceRolling\bin\Debug\net8.0\DiceRolling.dll
+C:\Users\vedaa\source\repos\DiceRolling\bin\Debug\net8.0\DiceRolling.pdb
+C:\Users\vedaa\source\repos\DiceRolling\obj\Debug\net8.0\DiceRolling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedaa\source\repos\DiceRolling\obj\Debug\net8.0\DiceRolling.AssemblyInfoInputs.cache
+C:\Users\vedaa\source\repos\DiceRolling\obj\Debug\net8.0\DiceRolling.AssemblyInfo.cs
+C:\Users\vedaa\source\repos\DiceRolling\obj\Debug\net8.0\DiceRolling.csproj.CoreCompileInputs.cache
+C:\Users\vedaa\source\repos\DiceRolling\obj\Debug\net8.0\DiceRolling.dll
+C:\Users\vedaa\source\repos\DiceRolling\obj\Debug\net8.0\refint\DiceRolling.dll
+C:\Users\vedaa\source\repos\DiceRolling\obj\Debug\net8.0\DiceRolling.pdb
+C:\Users\vedaa\source\repos\DiceRolling\obj\Debug\net8.0\DiceRolling.genruntimeconfig.cache
+C:\Users\vedaa\source\repos\DiceRolling\obj\Debug\net8.0\ref\DiceRolling.dll
